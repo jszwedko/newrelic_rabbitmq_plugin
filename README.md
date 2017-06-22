@@ -7,6 +7,7 @@ This plugin reports statistics from RabbitMQ to NewRelic such as:
 - Resource usage (by node)
 
 
+
 ### Requirements
 
 The monitiored RabbitMQ instances must be running the management
